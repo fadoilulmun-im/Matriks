@@ -84,7 +84,6 @@ for i in range(len(m)):
         print()
 
 
-print(hasil)
 print("\nHasil :")
 for a in range(len(hasil)):
     for b in range(len(hasil[a])):
